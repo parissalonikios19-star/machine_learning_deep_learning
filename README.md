@@ -29,7 +29,7 @@ This repository serves as a code portfolio demonstrating the implementation and 
 
 ### 3. Image Classification with ResNet (Computer Vision)
 * **File:** [`ResNet_fine-tune_FashionMNIST.ipynb`](./ResNet_fine-tune_FashionMNIST.ipynb)
-* **Task:** Multi-class classification of fashion articles (FashionMNIST).
+* **Task:** Multi-class classification of fashion articles (FashionMNIST) achieving **93.75% Test Accuracy**.
 * **Architecture:** Adapted **ResNet18** (Residual Neural Network).
 * **Key Techniques:**
     * **Transfer Learning:** Fine-tuned a ResNet18 model pre-trained on ImageNet.
